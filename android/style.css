@@ -58,7 +58,7 @@ header{
 header > h1{
     color: white;
     font-size: 3em;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-align: center;
 }
 header > p{
